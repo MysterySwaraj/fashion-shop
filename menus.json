@@ -1,0 +1,65 @@
+[{
+    "_id": {
+      "$oid": "5eee651f739f8c674fd736ee"
+    },
+    "name": "Footwear",
+    "image": "piz6.jpg",
+    "price": "550",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee6671a27a66807cf2bea3"
+    },
+    "name": "Kurti",
+    "image": "piz2.jpg",
+    "price": "700",
+    "size": "medium"
+  },{
+    "_id": {
+      "$oid": "5eee6692a27a66807cf2bea4"
+    },
+    "name": "Party-wear",
+    "image": "piz3.jpg",
+    "price": "2000",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66a5a27a66807cf2bea5"
+    },
+    "name": "Make-up",
+    "image": "pizza.png",
+    "price": "300",
+    "size": "small"
+  },{
+    "_id": {
+      "$oid": "5eee66c4a27a66807cf2bea6"
+    },
+    "name": "Kurti",
+    "image": "piz1.jpg",
+    "price": "1200",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee66cfa27a66807cf2bea7"
+    },
+    "name": "make-up",
+    "image": "piz5.jpg",
+    "price": "700",
+    "size": "large"
+  },{
+    "_id": {
+      "$oid": "5eee66eea27a66807cf2bea8"
+    },
+    "name": "gown",
+    "image": "piz4.jpg",
+    "price": "6000",
+    "size": "large"
+  },{ 
+    "_id": {
+      "$oid": "5eee6717a27a66807cf2bea9"
+    },
+    "name": "footwear",
+    "image": "piz5.jpg",
+    "price": "900",
+    "size": "medium"
+  }]
